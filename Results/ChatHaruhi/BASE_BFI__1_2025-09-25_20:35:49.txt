@@ -1,0 +1,327 @@
+2025-09-25 20:35:49,240 - Model_name: ChatHaruhi
+2025-09-25 20:35:49,241 - Experiment_name: _
+2025-09-25 20:35:49,241 - test_temperature: 0.0
+2025-09-25 20:35:49,241 - Baseline_Name: BASE
+2025-09-25 20:35:49,247 - Adversarial Attack Prompt: 
+2025-09-25 20:35:49,247 - ###### PERSONALITY TEST BEGINS.... #######
+2025-09-25 20:35:49,247 - Question No: 1)
+2025-09-25 20:35:49,248 - Default full question setting 
+2025-09-25 20:35:50,355 - PyTorch version 2.5.1 available.
+2025-09-25 20:35:57,342 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:35:57,366 - Question: you are talkative, Label: E, key: 1
+ + Response: B) Moderately Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:35:57,367 - Question No: 2)
+2025-09-25 20:35:57,367 - Default full question setting 
+2025-09-25 20:36:00,561 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:00,568 - Question: you tend to find fault with others, Label: A, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:00,568 - Question No: 3)
+2025-09-25 20:36:00,568 - Default full question setting 
+2025-09-25 20:36:03,443 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:03,455 - Question: you do a thorough job, Label: C, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:03,455 - Question No: 4)
+2025-09-25 20:36:03,455 - Default full question setting 
+2025-09-25 20:36:09,328 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:09,332 - Question: you are depressed, blue, Label: N, key: 1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:09,332 - Question No: 5)
+2025-09-25 20:36:09,332 - Default full question setting 
+2025-09-25 20:36:12,086 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:12,094 - Question: you come up with new ideas, Label: O, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:12,094 - Question No: 6)
+2025-09-25 20:36:12,095 - Default full question setting 
+2025-09-25 20:36:15,501 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:15,516 - Question: you are reserved, Label: E, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:15,517 - Question No: 7)
+2025-09-25 20:36:15,517 - Default full question setting 
+2025-09-25 20:36:18,154 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:18,183 - Question: you are helpful and unselfish with others, Label: A, key: 1
+ + Response: C) Neither Accurate Nor Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:18,184 - Question No: 8)
+2025-09-25 20:36:18,184 - Default full question setting 
+2025-09-25 20:36:20,915 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:20,927 - Question: you can be somewhat careless, Label: C, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:20,927 - Question No: 9)
+2025-09-25 20:36:20,927 - Default full question setting 
+2025-09-25 20:36:23,370 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:23,386 - Question: you are relaxed and handle stress well, Label: N, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:23,387 - Question No: 10)
+2025-09-25 20:36:23,387 - Default full question setting 
+2025-09-25 20:36:26,470 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:26,475 - Question: you are curious about many different things, Label: O, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:26,475 - Question No: 11)
+2025-09-25 20:36:26,475 - Default full question setting 
+2025-09-25 20:36:29,638 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:29,647 - Question: you are full of energy, Label: E, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:29,647 - Question No: 12)
+2025-09-25 20:36:29,647 - Default full question setting 
+2025-09-25 20:36:32,173 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:32,181 - Question: you start quarrels with others, Label: A, key: -1
+ + Response: B) Moderately Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:32,181 - Question No: 13)
+2025-09-25 20:36:32,181 - Default full question setting 
+2025-09-25 20:36:35,376 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:35,382 - Question: you are a reliable worker, Label: C, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:35,383 - Question No: 14)
+2025-09-25 20:36:35,383 - Default full question setting 
+2025-09-25 20:36:38,131 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:38,139 - Question: you can be tense, Label: N, key: 1
+ + Response: D) Moderately Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:38,140 - Question No: 15)
+2025-09-25 20:36:38,140 - Default full question setting 
+2025-09-25 20:36:40,875 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:40,893 - Question: you are ingenious, a deep thinker, Label: O, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:40,893 - Question No: 16)
+2025-09-25 20:36:40,893 - Default full question setting 
+2025-09-25 20:36:43,412 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:43,424 - Question: you generate a lot of enthusiasm, Label: E, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:43,424 - Question No: 17)
+2025-09-25 20:36:43,424 - Default full question setting 
+2025-09-25 20:36:46,031 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:46,037 - Question: you have a forgiving nature, Label: A, key: 1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:46,038 - Question No: 18)
+2025-09-25 20:36:46,038 - Default full question setting 
+2025-09-25 20:36:48,635 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:48,648 - Question: you tend to be disorganized, Label: C, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:48,648 - Question No: 19)
+2025-09-25 20:36:48,648 - Default full question setting 
+2025-09-25 20:36:51,785 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:51,793 - Question: you worry a lot, Label: N, key: 1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:51,794 - Question No: 20)
+2025-09-25 20:36:51,794 - Default full question setting 
+2025-09-25 20:36:54,297 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:54,301 - Question: you have an active imagination, Label: O, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:54,301 - Question No: 21)
+2025-09-25 20:36:54,301 - Default full question setting 
+2025-09-25 20:36:57,491 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:36:57,504 - Question: you tend to be quiet, Label: E, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:36:57,504 - Question No: 22)
+2025-09-25 20:36:57,504 - Default full question setting 
+2025-09-25 20:37:00,488 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:00,496 - Question: you are generally trusting, Label: A, key: 1
+ + Response: B) Moderately Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:00,496 - Question No: 23)
+2025-09-25 20:37:00,497 - Default full question setting 
+2025-09-25 20:37:03,477 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:03,486 - Question: you tend to be lazy, Label: C, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:03,487 - Question No: 24)
+2025-09-25 20:37:03,487 - Default full question setting 
+2025-09-25 20:37:06,302 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:06,318 - Question: you are emotionally stable, not easily upset, Label: N, key: -1
+ + Response: B) Moderately Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:06,319 - Question No: 25)
+2025-09-25 20:37:06,319 - Default full question setting 
+2025-09-25 20:37:08,801 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:08,806 - Question: you are inventive, Label: O, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:08,806 - Question No: 26)
+2025-09-25 20:37:08,806 - Default full question setting 
+2025-09-25 20:37:11,274 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:11,282 - Question: you have an assertive personality, Label: E, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:11,283 - Question No: 27)
+2025-09-25 20:37:11,283 - Default full question setting 
+2025-09-25 20:37:13,890 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:13,905 - Question: you can be cold and aloof, Label: A, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:13,906 - Question No: 28)
+2025-09-25 20:37:13,906 - Default full question setting 
+2025-09-25 20:37:16,551 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:16,558 - Question: you persevere until the task is finished, Label: C, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:16,559 - Question No: 29)
+2025-09-25 20:37:16,559 - Default full question setting 
+2025-09-25 20:37:23,088 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:23,101 - Question: you can be moody, Label: N, key: 1
+ + Response: B) Moderately Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:23,102 - Question No: 30)
+2025-09-25 20:37:23,102 - Default full question setting 
+2025-09-25 20:37:26,084 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:26,091 - Question: you value artistic, aesthetic experiences, Label: O, key: 1
+ + Response: B) Moderately Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:26,091 - Question No: 31)
+2025-09-25 20:37:26,091 - Default full question setting 
+2025-09-25 20:37:28,950 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:28,968 - Question: you are sometimes shy, inhibited, Label: E, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:28,968 - Question No: 32)
+2025-09-25 20:37:28,968 - Default full question setting 
+2025-09-25 20:37:31,547 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:31,562 - Question: you are considerate and kind to almost everyone, Label: A, key: 1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:31,563 - Question No: 33)
+2025-09-25 20:37:31,563 - Default full question setting 
+2025-09-25 20:37:34,135 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:34,152 - Question: you do things efficiently, Label: C, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:34,153 - Question No: 34)
+2025-09-25 20:37:34,153 - Default full question setting 
+2025-09-25 20:37:36,669 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:36,692 - Question: you remain calm in tense situations, Label: N, key: -1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:36,693 - Question No: 35)
+2025-09-25 20:37:36,693 - Default full question setting 
+2025-09-25 20:37:39,739 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:39,754 - Question: you prefer work that is routine, Label: O, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:39,755 - Question No: 36)
+2025-09-25 20:37:39,755 - Default full question setting 
+2025-09-25 20:37:42,695 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:42,712 - Question: you are outgoing, sociable, Label: E, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:42,712 - Question No: 37)
+2025-09-25 20:37:42,713 - Default full question setting 
+2025-09-25 20:37:45,415 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:45,419 - Question: you are sometimes rude to others, Label: A, key: -1
+ + Response: B) Moderately Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:45,419 - Question No: 38)
+2025-09-25 20:37:45,419 - Default full question setting 
+2025-09-25 20:37:48,401 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:48,410 - Question: you make plans and follow through with them, Label: C, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:48,411 - Question No: 39)
+2025-09-25 20:37:48,411 - Default full question setting 
+2025-09-25 20:37:51,429 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:51,439 - Question: you get nervous easily, Label: N, key: 1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:51,440 - Question No: 40)
+2025-09-25 20:37:51,440 - Default full question setting 
+2025-09-25 20:37:53,958 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:53,967 - Question: you like to reflect, play with ideas, Label: O, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:53,967 - Question No: 41)
+2025-09-25 20:37:53,967 - Default full question setting 
+2025-09-25 20:37:56,605 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:56,617 - Question: you have few artistic interests, Label: O, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:56,618 - Question No: 42)
+2025-09-25 20:37:56,618 - Default full question setting 
+2025-09-25 20:37:59,078 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:37:59,083 - Question: you like to cooperate with others, Label: A, key: 1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:37:59,084 - Question No: 43)
+2025-09-25 20:37:59,084 - Default full question setting 
+2025-09-25 20:38:02,205 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:38:02,214 - Question: you are easily distracted, Label: C, key: -1
+ + Response: E) Very Inaccurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:38:02,215 - Question No: 44)
+2025-09-25 20:38:02,215 - Default full question setting 
+2025-09-25 20:38:04,763 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-25 20:38:04,778 - Question: you are sophisticated in art, music, or literature, Label: O, key: 1
+ + Response: A) Very Accurate
+ + Conversation History: [{'role': 'system', 'content': 'You are a very friendly and gregarious person who loves to be around others. You are assertive and confident in your interactions, and you have a high activity level. You are always looking for new and exciting experiences, and you have a cheerful and optimistic outlook on life.'}]
+
+2025-09-25 20:38:04,779 - OCEAN Scores (Mean and Std Dev):
+2025-09-25 20:38:04,779 - OCEAN mean Scores: [4.9, 5.0, 4.875, 2.6666666666666665, 2.125]
+2025-09-25 20:38:04,779 - OCEAN std deviation: [0.3, 0.0, 0.33071891388307384, 1.5634719199411433, 1.4523687548277813]
+2025-09-25 20:38:04,780 - O: Mean = 4.90, Std Dev = 0.30
+2025-09-25 20:38:04,780 - C: Mean = 5.00, Std Dev = 0.00
+2025-09-25 20:38:04,780 - E: Mean = 4.88, Std Dev = 0.33
+2025-09-25 20:38:04,780 - A: Mean = 2.67, Std Dev = 1.56
+2025-09-25 20:38:04,780 - N: Mean = 2.12, Std Dev = 1.45
+2025-09-25 20:38:04,780 - Option Counts:
+2025-09-25 20:38:04,780 - {'A': 17, 'B': 7, 'C': 1, 'D': 1, 'E': 18, 'UNK': 0}
+2025-09-25 20:38:04,780 - 
+Score Trajectory: [4, 5, 5, 1, 5, 5, 3, 5, 5, 5, 5, 2, 5, 2, 5, 5, 1, 5, 1, 5, 5, 4, 5, 2, 5, 5, 5, 5, 4, 4, 5, 1, 5, 1, 5, 5, 2, 5, 1, 5, 5, 1, 5, 5]
