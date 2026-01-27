@@ -1,4 +1,4 @@
-Official code for the paper ["Persona Jailbreaking in Large Language Models"]() accepted at EACL26 (Findings).
+Official code for the paper ["Persona Jailbreaking in Large Language Models"](https://arxiv.org/abs/2601.16466) accepted at EACL26 (Findings).
 
 #### Requirements
 Some of the important software dependecies are as follows:
@@ -57,15 +57,26 @@ python evaluation_script.py
 
 
 ```
+
 #### How to cite our work?
 ```
-TBD
+@misc{sandhan2026personajailbreakinglargelanguage,
+      title={Persona Jailbreaking in Large Language Models}, 
+      author={Jivnesh Sandhan and Fei Cheng and Tushar Sandhan and Yugo Murawaki},
+      year={2026},
+      eprint={2601.16466},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.16466}, 
+}
+
 ```
 
 #### License
 This project is licensed under the terms of the `Apache license 2.0`.
 
-#### Acknowledgements
+
+#### Acknowledgments
 This work was supported by the “R&D Hub Aimed at Ensuring Transparency and Reliability of Generative AI Models” project of the Ministry of Education, Culture, Sports, Science and Technology.
 
 
