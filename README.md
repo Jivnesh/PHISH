@@ -56,7 +56,6 @@ python evaluation_script.py
 * `llm-abilities-eval.py` : Refer to this for results of Section 5.5
 
 
-```
 
 #### How to cite our work?
 ```
